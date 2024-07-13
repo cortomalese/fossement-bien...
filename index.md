@@ -93,8 +93,23 @@ Quand je fais une pause, j'aime bien écouter un petit podcast avec :
       <h2> Tasks.org</h2>
       <p>: Open-source To-Do Lists & Reminders .</p>
       <div>
-        <a href="https://f-droid.org/en/packages/org.tasks/</a>
+        <a href="https://f-droid.org/en/packages/org.tasks/">Vers la notice F-Droid</a>
         <a href="https://tasks.org">Vers le site</a>
+      </div>
+    </div>
+  </article> 
+
+
+  <article class="framalibre-notice">
+    <div>
+      <img src="https://f-droid.org/repo/org.tasks/en-US/icon_YftLJ2dGZxgevP1f0n9c9X9HZKYmyz06c370Udel8Tk=.png">
+    </div>
+    <div>
+      <h2> Termux</h2>
+      <p>Terminal emulator with packages.</p>
+      <div>
+        <a href="https://f-droid.org/en/packages/com.termux/index.html">Vers la notice F-Droid</a>
+        <a href="https://wiki.termux.com/">Vers le site</a>
       </div>
     </div>
   </article> 
