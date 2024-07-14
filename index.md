@@ -1,15 +1,11 @@
 ---
-title: "Ma page de recommandations"
+title: "Mes logiciels libres préférés sur Framasoft"
 order: 0
 in_menu: true
 ---
 ### Mes logiciels libres préférés sur Framasoft
 
-## Pour écouter des émissions
-
-Quand je fais une pause, j'aime bien écouter un petit podcast avec :
-
-  <article class="framalibre-notice">
+ <article class="framalibre-notice">
     <div>
       <img src="https://beta.framalibre.org/images/logo/AntennaPod.png">
     </div>
@@ -76,37 +72,6 @@ Quand je fais une pause, j'aime bien écouter un petit podcast avec :
       <div>
         <a href="https://framalibre.org/notices/exodus-privacy.html">Vers la notice Framalibre</a>
         <a href="https://exodus-privacy.eu.org/fr/">Vers le site</a>
-      </div>
-    </div>
-  </article> 
-
-### Mes logiciels libres préférés sur F-Droid
-
- <article class="framalibre-notice">
-    <div>
-      <img src="https://f-droid.org/repo/org.tasks/en-US/icon_YftLJ2dGZxgevP1f0n9c9X9HZKYmyz06c370Udel8Tk=.png">
-    </div>
-    <div>
-      <h2> Tasks.org</h2>
-      <p>: Open-source To-Do Lists & Reminders .</p>
-      <div>
-        <a href="https://f-droid.org/en/packages/org.tasks/">Vers la notice F-Droid</a>
-        <a href="https://tasks.org">Vers le site</a>
-      </div>
-    </div>
-  </article> 
-
-
-  <article class="framalibre-notice">
-    <div>
-      <img src="https://f-droid.org/repo/com.termux/en-US/icon_7jMZ7XD80oeucmGEaTwktIRZexLtGWvJfKdVD6Wu2SI=.png">
-    </div>
-    <div>
-      <h2> Termux</h2>
-      <p>Terminal emulator with packages.</p>
-      <div>
-        <a href="https://f-droid.org/en/packages/com.termux/index.html">Vers la notice F-Droid</a>
-        <a href="https://wiki.termux.com/">Vers le site</a>
       </div>
     </div>
   </article> 
