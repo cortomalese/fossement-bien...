@@ -1,6 +1,6 @@
 ---
 title: "Mode d'emploi pour votre mini-site"
-order: 0
+order: 1
 in_menu: false
 ---
 # Comment on le crée ce mini-site ?
