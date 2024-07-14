@@ -1,6 +1,6 @@
 ---
 title: "Mes logiciels libres préférés sur Framasoft"
-order: 0
+order: 1
 in_menu: true
 ---
 ### Mes logiciels libres préférés sur Framasoft

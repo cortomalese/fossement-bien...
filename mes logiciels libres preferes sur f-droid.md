@@ -1,6 +1,6 @@
 ---
 title: "Mes logiciels libres préférés sur F-Droid"
-order: 3
+order: 2
 in_menu: true
 ---
 ### Mes logiciels libres préférés sur F-Droid
